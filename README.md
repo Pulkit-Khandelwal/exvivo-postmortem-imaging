@@ -1,6 +1,6 @@
-# Nerfies
+# Biomedical image segmentation
 
-This is an introduction to Bimedical image segmentation using deep learning.
+This is an introduction to Biomedical image segmentation using deep learning.
 
 
 
